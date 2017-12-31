@@ -2,7 +2,7 @@
   "profiles": {
     "LogFilter": {
       "commandName": "Project",
-      "commandLineArgs": "C:\\work\\tests\\logs\\iteration42\\2017-12-28.043.log Raven.Server.Rachis.RachisConsensus"
+      "commandLineArgs": "C:\\work\\tests\\logs\\iteration0\\2017-12-31.001.log Raven.Client.Http.HttpCache"
     }
   }
 }

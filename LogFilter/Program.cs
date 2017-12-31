@@ -48,6 +48,7 @@ namespace LogFilter
                     }
                     if (newLogLine.Valid == ProcessResult.Filtered)
                     {
+                        prevLine = null;
                         continue;
                     }
                     prevLine = newLogLine.Line;
